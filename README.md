@@ -61,8 +61,8 @@ RAM 4 GB or more
 ## MainNet
 ```
 SSD free space 300G or more
-CPU dual core or more
-RAM 16 GB or more
+CPU 4 core or more
+RAM 32 GB or more
 ```
 ## OS
 ```
