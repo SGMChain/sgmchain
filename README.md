@@ -53,10 +53,17 @@ make -j$(nproc) cli_wallet
 
 # H/W requirements.
 ```
+## TestNet
 HDD free space 54G or more
 CPU dual core or more
 RAM 4 GB or more
-OS
+
+## MainNet
+SSD free space 300G or more
+CPU dual core or more
+RAM 16 GB or more
+
+## OS
 Linux: Ubuntu 16.04 or later
 ```
 
